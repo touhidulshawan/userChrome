@@ -1,13 +1,13 @@
 /* Base color for the theme, dependent on whether it's a light theme or not */
 @media (prefers-color-scheme: dark) {
     :root {
-        --lwt-accent-color: #1c1b22;
+        --lwt-accent-color: #282828;
     }
 }
 
 @media (prefers-color-scheme: light) {
     :root {
-        --lwt-accent-color: #FAFAFC;
+        --lwt-accent-color: #ebdbb2;
     }
 }
 
@@ -140,6 +140,3 @@ toolbar#nav-bar {
 #PanelUI-menu-button .toolbarbutton-badge-stack {
     padding: 0px !important; 
 }
-
-
-

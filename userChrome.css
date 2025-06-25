@@ -59,11 +59,6 @@
 	visibility: collapse !important;
 }
 
-/* All tabs (v-like) button */
-#alltabs-button {
-	display: none !important
-}
-
 /* URL bar icons */
 #identity-permission-box,
 #star-button-box,
